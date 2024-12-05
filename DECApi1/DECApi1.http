@@ -1,0 +1,6 @@
+@DECApi1_HostAddress = http://localhost:5299
+
+GET {{DECApi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
